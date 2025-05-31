@@ -1,8 +1,9 @@
 # TP Computación Aplicada
 
 **Integrantes**
-- Camilo Cedrés
--
+- Camilo Cedrés Aguirre
+- Gustavo Hansen
+- Augusto Torres
 
 ## Descripción
 Este respositorio contiene backups comprimidos de:
